@@ -7,6 +7,7 @@ Create unity by using natural colors throughout the image, including soft greens
 Use asymmetrical balance by placing the cabin and guitar on the right side while balancing them with the open landscape, sunset, lake, and mountains on the left. Use different sizes and scale throughout the scene, with larger objects in the foreground and smaller objects in the distance. The overall album cover should feel peaceful, warm, natural, spacious, and connected to the Acoustic Folk / Americana style.
 
 **THE STUDIO GLOSSARY**
+
 **Value:** To me, value means how light or dark something looks in a design. It helps create a mood, contrast, and makes certain parts of an image stand out more than others.
 **Space:** Space is how I arrange objects, so the design does not feel flat or crowded. I can make something feel close or far away by changing its size, overlapping objects, and using the foreground and background.
 **Unity:** Unity is when all the different parts of a design feel like they belong together. Using similar colors, textures, shapes, or a consistent style can make the whole design feel connected.
