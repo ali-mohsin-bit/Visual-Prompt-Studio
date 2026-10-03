@@ -1,10 +1,15 @@
 **PROMPT:**
 
 Create a square digital album cover for an Acoustic Folk / Americana band. I want the main scene to show peaceful countryside with a weathered wooden cabin on one side, a winding dirt road, tall grass, wildflowers, pine trees, a lake, and mountains in the distance. Add an acoustic guitar leaning against the cabin to connect the scene with the music genre.
+
 Use soft natural lighting from a late-afternoon sunset. The sunlight should create warm, lighter values across the grass, road, and parts of the cabin, while the trees, mountains, and shaded areas of the cabin have darker values. Keep the lighting soft and natural to create a peaceful and nostalgic mood.
+
 Create the illusion of space by making the grass, rocks, flowers, and wooden fence in the foreground larger and more detailed. Let some of these elements overlap each other. The road should become narrower as it moves toward the lake, while the trees and mountains become smaller and softer in the background to show distance and depth.
+
 Show time and motion through the setting sun, long shadows, gently moving grass, and the winding road. These elements should make the scene feel like a quiet moment at the end of the day and suggest the passage of time.
+
 Create unity by using natural colors throughout the image, including soft greens, warm browns, beige, light blue, and gentle golden tones. Repeat natural textures such as wood, grass, stone, and trees. For variety, include a reddish-brown acoustic guitar against the cabin so its color and curved shape stand out from the surrounding landscape.
+
 Use asymmetrical balance by placing the cabin and guitar on the right side while balancing them with the open landscape, sunset, lake, and mountains on the left. Use different sizes and scale throughout the scene, with larger objects in the foreground and smaller objects in the distance. The overall album cover should feel peaceful, warm, natural, spacious, and connected to the Acoustic Folk / Americana style.
 
 **THE STUDIO GLOSSARY**
